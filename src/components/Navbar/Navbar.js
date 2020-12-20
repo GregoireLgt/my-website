@@ -31,6 +31,7 @@ class Navbar extends Component {
                 </ul>
                 <i className="fab fa-linkedin fa-2x"></i>
                 <i className="fab fa-github fa-2x"></i>
+                <i className="fab fa-instagram fa-2x"></i>
             </nav>
         )
     }

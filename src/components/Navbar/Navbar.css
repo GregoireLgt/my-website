@@ -46,13 +46,7 @@
     color: #FFF;
 }
 
-.fa-linkedin {
-    color: #FFF;
-    padding: 0.5rem 1rem;
-    cursor: pointer;
-}
-
-.fa-github {
+.fa-linkedin, .fa-github, .fa-instagram {
     color: #FFF;
     padding: 0.5rem 1rem;
     cursor: pointer;
