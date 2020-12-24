@@ -1,7 +1,7 @@
 export const MenuItems = [
     {
         title: 'Resume',
-        url: '#', // put link there
+        url: '/resume', // display pdf with react-pdf
         cName: 'nav-links'
     },
     {

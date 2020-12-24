@@ -10,6 +10,7 @@
 .navbar-logo {
     color: #FFF;
     justify-self: start;
+    min-width: 150px;
     margin-left: 20px;
     cursor: pointer;
 }
@@ -36,6 +37,13 @@
     padding: 0.5rem 1rem;
 }
 
+
+.navbar-logo:hover {
+    background-color: #6d76f7;
+    border-radius: 6px;
+    transition: all 0.4s ease-out;
+}
+
 .nav-links:hover {
     background-color: #6d76f7;
     border-radius: 6px;
@@ -51,6 +59,14 @@
     padding: 0.5rem 1rem;
     cursor: pointer;
 }
+
+
+.fa-linkedin:hover, .fa-github:hover, .fa-instagram:hover {
+    background-color: #6d76f7;
+    border-radius: 6px;
+    transition: all 0.4s ease-out;
+}
+
 .menu-icon {
     display: none;
 }

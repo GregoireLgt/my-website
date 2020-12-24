@@ -4,7 +4,7 @@ import './Footer.css'
 
 const Footer = () => (
     <div className="Footer">
-        <p>Grégoire Laget - All Rights Reserved &copy;</p>
+        <p>Grégoire Laget - 2020 All Rights Reserved &copy;</p>
     </div>
 );
 

@@ -29,9 +29,8 @@ class Navbar extends Component {
                         )
                     })}
                 </ul>
-                <i className="fab fa-linkedin fa-2x"></i>
-                <i className="fab fa-github fa-2x"></i>
-                <i className="fab fa-instagram fa-2x"></i>
+                <a href="https://www.linkedin.com/in/gregoire-laget/" target="_blank"><i className="fab fa-linkedin fa-2x"></i></a>
+                <a href="https://github.com/GregoireLgt" target="_blank"><i className="fab fa-github fa-2x"></i></a>
             </nav>
         )
     }
